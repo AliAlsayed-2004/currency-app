@@ -1,0 +1,9 @@
+{
+    "base_currency": "USD",
+    "target_currencies": [
+        "USD",
+        "JOD",
+        "ILS",
+        "USDT"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "currencies": {
+    "US Dollar": "USD",
+    "Euro": "EUR",
+    "British Pound": "GBP",
+    "Jordanian Dinar": "JOD",
+    "Israeli Shekel": "ILS",
+    "Tether": "USDT",
+    "Bitcoin": "BTC",
+    "Ethereum": "ETH",
+    "Japanese Yen": "JPY",
+    "Canadian Dollar": "CAD",
+    "Australian Dollar": "AUD",
+    "Swiss Franc": "CHF",
+    "Chinese Yuan": "CNY",
+    "Indian Rupee": "INR",
+    "Mexican Peso": "MXN"
+  }
+}
